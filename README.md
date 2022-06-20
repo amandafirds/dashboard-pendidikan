@@ -12,12 +12,12 @@ Pada tahap ini data APM, APK, dan Jumlah Sekolah yang telah dikumpulkan seperti 
 
 * Data APM, APK, dan Jumlah Sekolah 
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/DataAPKAPM%26JmlSekolah.png" width="400" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/DataAPKAPM%26JmlSekolah.png" width="350" height="250" />
 </p>
 
 * Data Rata-Rata Lama Sekolah (RLS)
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/DataRLS.png" width="400" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/DataRLS.png" width="350" height="250" />
 </p>
 
 #### Seleksi Data
@@ -30,7 +30,7 @@ Data yang telah melewati tahap seleksi data kemudian dilanjutkan dengan proses v
 
 * Visualisasi Data Jumlah Sekolah 
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisJumlahSekolah.png" width="400" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisJumlahSekolah.png" width="350" height="250" />
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ Data jumlah sekolah di Kota Bekasi menurut jenjang pendidikan di visualisasikan 
 
 * Visualisasi Data APM dan APK 
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisAPKAPM.png" width="400" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisAPKAPM.png" width="350" height="250" />
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ Data Angka Partisipasi Murni (APM) dan Angka Partisipasi Kasar (APK) menurut jen
 
 * Visualisasi Data Rata-Rata Lama Sekolah (RLS)
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisRLS.png" width="400" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisRLS.png" width="350" height="250" />
 </p>
 
 <p align="justify">
@@ -57,14 +57,14 @@ Data Rata-Rata Lama Sekolah (RLS) Kota Bekasi dari tahun 2010 sampai dengan 2021
 Setelah seluruh data di visualisasikan selanjutnya adalah menyatukan seluruh visualisasi tersebut dalam dashboard. Dashboard tidak boleh mengandung hal yang sangat menarik perhatian atau mencolok sehingga informasi pada visualisasi data tidak tersampaikan dengan baik. Ukuran dashboard yang digunakan adalah ukuran yang disediakan oleh Tableau, yaitu Desktop Browser dengan ukuran 1000x800 pixel. Ukuran ini dipilih karena sangat tepat untuk menampung semua visualisasi sehingga dapat memudahkan user yang melihat dashboard. Hal ini memudahkan karena tidak terdapat scrollbar, baik itu horizontal maupun vertical, karena tidak perlu mengerahkan usaha lebih. Untuk membuat dashboard menjadi lebih menarik, dashboard dirancang dengan menggunakan palette color yang sama yaitu blue palette color. Berikut tampilan dashboard yang telah dibuat. </p>
 
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/Dashboard.png" width="400" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/Dashboard.png" width="350" height="250" />
 </p>
 
 <p align="justify">
 Dashboard juga dilengkapi dengan filter. Pengguna dapat memilih tahun yang sesuai dengan keinginannya. Selain itu, filter bersifat multivalues list sehingga dapat menampilkan visualisasi dengan lebih dari satu tahun tertentu yang dipilih. Dengan fitur ini, informasi yang ada dapat tersampaikan dengan baik kepada pengguna. Berikut tampilan fitur filter yang terdapat pada dashboard. </p>
 
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/FilterTahun.png" width="400" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/FilterTahun.png" width="200" height="250" />
 </p>
 
 ## Publikasi Dashboard
