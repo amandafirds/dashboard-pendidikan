@@ -64,7 +64,7 @@ Setelah seluruh data di visualisasikan selanjutnya adalah menyatukan seluruh vis
 Dashboard juga dilengkapi dengan filter. Pengguna dapat memilih tahun yang sesuai dengan keinginannya. Selain itu, filter bersifat multivalues list sehingga dapat menampilkan visualisasi dengan lebih dari satu tahun tertentu yang dipilih. Dengan fitur ini, informasi yang ada dapat tersampaikan dengan baik kepada pengguna. Berikut tampilan fitur filter yang terdapat pada dashboard. </p>
 
 <p align="center">
-<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/FilterTahun.png" width="200" height="250" />
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/FilterTahun.png" width="235" height="250" />
 </p>
 
 ## Publikasi Dashboard
