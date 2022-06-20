@@ -1,253 +1,72 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+<h1 align="center"> Implementasi Dashboard Pendidikan Kota Bekasi Dalam Angka </h1>
+
+<p align="justify"> Kota Bekasi Dalam Angka merupakan salah satu publikasi tahunan yang diterbitkan oleh BPS Kota Bekasi. Publikasi ini memuat data dan informasi mulai dari keadaan geografi dan iklim, pemerintahan, perkembangan sosial-demografi sampai dengan keadaan perekonomian Kota Bekasi. Namun, sebagian besar data masih berbentuk tabel, sehingga perlu di visualisasikan lebih lanjut. Visualisasi data adalah teknik mengubah data menjadi bentuk visual. Visualisasi data penting dilakukan agar infirmasi yang terdapat dalam pada data dapat tersampaikan dengan baik kepada orang lain. Dalam penelitian ini dilakukan pembuatan dashboard pendidikan Kota Bekasi dalam angka. Software yang digunakan untuk visualisasi adalah Tableau. Hasil akhir dari penelitian ini berupa publikasi dashboard yang telah dibuat berdasarkan data yang ada. </p>
+ 
+## Data yang digunakan
+<p align="justify"> Data yang digunakan adalah data dari publikasi Kota Bekasi Dalam Angka Tahun 2019, 2020, dan 2021 juga data Pendidikan dan indikator IPM yang diperoleh dari BPS Kota Bekasi juga Dinas Pendidikan Kota Bekasi. Dalam membuat dashboard ini dibutuhkan 3 publikasi Kota Bekasi Dalam Angka untuk tahun 2019, 2020, dan 2021 karena publikasi ini diterbitkan setiap tahunnya. Selain Kota Bekasi Dalam Angka, dikumpulkan pula data nilai Angka Partisipasi Murni (APM) dan Angka Partisipasi Kasar (APK) dari tahun 2018 sampai dengan 2020. Kemudian, dikumpulkan pula data Rata-Rata Lama Sekolah yang merupakan salah satu indikator Indeks Pembangunan Manusia (IPM) selama 12 tahun terakhir yaitu dari tahun 2010 sampai dengan 2021.  Publikasi Kota Bekasi Dalam Angka dan juga statistik Pendidikan yakni APM dan APK diunduh dari website resmi BPS Kota Bekasi yaitu https://bekasikota.bps.go.id/. Sedangkan Rata-Rata Lama Sekolah selama 12 tahun terakhir diunduh dari website resmi Dinas Pendidikan Provinsi Jawa Barat yaitu https://sync.disdik.jabarprov.go.id/index.php. </p>
+
+## Tahapan Pembuatan Dashboard
+#### Pengumpulan dan Pengelompokan Data
+<p align="justify">
+Pada tahap ini data APM, APK, dan Jumlah Sekolah yang telah dikumpulkan seperti yang sudah dijelaskan, digabungkan menjadi satu berdasarkan jenjang pendidikan. Kemudian, data RLS dipisahkan karena merupakan data time series. Dalam hal ini, peneliti menggunakan software Mircosoft Excel sebagai sarana untuk pengelompokkan data. Data dikelompokkan berdasarkan jenis data dan tahunnya. Berikut tampilan data yang digunakan: </p>
+
+* Data APM, APK, dan Jumlah Sekolah 
+<p align="center">
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/DataAPKAPM%26JmlSekolah.png" width="400" height="250" />
+</p>
+
+* Data Rata-Rata Lama Sekolah (RLS)
+<p align="center">
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/DataRLS.png" width="400" height="250" />
+</p>
+
+#### Seleksi Data
+<p align="justify">
+Seleksi data dilakukan untuk menghilangkan informasi yang tidak dibutuhkan. Terdapat kolom yang tidak dibutuhkan dalam visualisasi yang akan dilakukan. Peneliti juga membuat kolom tahun yang akan digunakan sebagai fitur filter pada dashboard yang akan dibuat. </p>
+
+#### Visualisasi Data
+<p align="justify">
+Data yang telah melewati tahap seleksi data kemudian dilanjutkan dengan proses visualisasi. Visualisasi dilakukan dengan menggunakan software Tableu. Masing-masing data divisualisasikan ke dalam bentuk yang berbeda-beda. Untuk data pertama yaitu data Angka Partisipasi Murni (APM) dan Angka Partisipasi Kasar (APK) dengan double bar chart. Kemudian untuk data kedua yaitu data jumlah sekolah di Kota Bekasi menurut jenjang pendidikan, divisualisasikan dengan horizontal bar chart. Terakhir, untuk data ketiga yaitu data Rata-Rata Lama Sekolah (RLS) dari tahun 2010 sampai dengan 2021 divisualisasikan dengan line chart. Berikut dijelaskan visualisasi data dalam dashboard. </p>
+
+* Visualisasi Data Jumlah Sekolah 
+<p align="center">
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisJumlahSekolah.png" width="400" height="250" />
+</p>
+
+<p align="justify">
+Data jumlah sekolah di Kota Bekasi menurut jenjang pendidikan di visualisasikan dengan bentuk horizontal bar chart. Alasan memilih visualisasi ini karena agar dapat terlihat perbedaan jumlah sekolah antar jenjang pendidikan. Selain itu, dengan visualisasi ini dapat dengan mudah melihat susunan jumlah sekolah dari yang lebih banyak sampai yang sedikit. Visualisasi data ini dilengkapi dengan fitur filter yang digunakan untuk menampilkan tahun tertentu yang diinginkan. Filter bersifat multivalues list sehingga dapat menampilkan visualisasi dengan lebih dari satu tahun tertentu.  Visualisasi ini bersifat interaktif yang akan berubah sesuai tahun yang dipilih. </p>
+
+* Visualisasi Data APM dan APK 
+<p align="center">
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisAPKAPM.png" width="400" height="250" />
+</p>
+
+<p align="justify">
+Data Angka Partisipasi Murni (APM) dan Angka Partisipasi Kasar (APK) menurut jenjang pendidikan di Kota Bekasi di visualisasikan dengan double bar chart. Tujuan di visualisasikan dengan double bar chart adalah  untuk mengetahui perbandingan besarnya nilai APK dan APM tiap jenjang pendidikan. Dengan visualisasi ini dapat secara langsung dibandingkan antara nilai APM dengan APK sehingga terlihat jelas perbedaan diantara keduanya. Visualisasi data ini juga dilengkapi dengan fitur filter yang digunakan untuk menampilkan tahun tertentu yang diinginkan. Filter bersifat multivalues list sehingga dapat menampilkan visualisasi dengan lebih dari satu tahun tertentu.  Visualisasi ini bersifat interaktif yang akan berubah sesuai tahun yang dipilih. </p>
+
+* Visualisasi Data Rata-Rata Lama Sekolah (RLS)
+<p align="center">
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/VisRLS.png" width="400" height="250" />
+</p>
+
+<p align="justify">
+Data Rata-Rata Lama Sekolah (RLS) Kota Bekasi dari tahun 2010 sampai dengan 2021 yang di visualisasikan dengan line chart. Alasan memilih visualisasi ini karena untuk data time series, visualisasi menggunakan line chart lebih efektif karena pola naik atau turun dapat terlihat dengan jelas dengan visualisasi ini. Visualisasi data RLS bersifat statis atau tetap. </p>
+
+#### Pembuatan Dashboard
+<p align="justify">
+Setelah seluruh data di visualisasikan selanjutnya adalah menyatukan seluruh visualisasi tersebut dalam dashboard. Dashboard tidak boleh mengandung hal yang sangat menarik perhatian atau mencolok sehingga informasi pada visualisasi data tidak tersampaikan dengan baik. Ukuran dashboard yang digunakan adalah ukuran yang disediakan oleh Tableau, yaitu Desktop Browser dengan ukuran 1000x800 pixel. Ukuran ini dipilih karena sangat tepat untuk menampung semua visualisasi sehingga dapat memudahkan user yang melihat dashboard. Hal ini memudahkan karena tidak terdapat scrollbar, baik itu horizontal maupun vertical, karena tidak perlu mengerahkan usaha lebih. Untuk membuat dashboard menjadi lebih menarik, dashboard dirancang dengan menggunakan palette color yang sama yaitu blue palette color. Berikut tampilan dashboard yang telah dibuat. </p>
+
+<p align="center">
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/Dashboard.png" width="400" height="250" />
+</p>
+
+<p align="justify">
+Dashboard juga dilengkapi dengan filter. Pengguna dapat memilih tahun yang sesuai dengan keinginannya. Selain itu, filter bersifat multivalues list sehingga dapat menampilkan visualisasi dengan lebih dari satu tahun tertentu yang dipilih. Dengan fitur ini, informasi yang ada dapat tersampaikan dengan baik kepada pengguna. Berikut tampilan fitur filter yang terdapat pada dashboard. </p>
+
+<p align="center">
+<img src = "https://github.com/amandafirds/dashboard-pendidikan/blob/master/FilterTahun.png" width="400" height="250" />
+</p>
+
+## Publikasi Dashboard
+<p align="justify">
+Langkah terakhir yang dilakukan adalah mempublikasikan dashboard. Dalam hal ini, publikasi dilakukan dengan memanfaatkan fitur yang ada di Tableau, yaitu publikasi dengan Tableau Public. Hasil publikasi dapat diakses melalui link berikut: (https://public.tableau.com/app/profile/amanda.firdaus/viz/projectuas/Dashboard1?publish=yes) </p>
